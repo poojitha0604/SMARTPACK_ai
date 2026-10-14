@@ -1,0 +1,1 @@
+{"threshold": 0.7, "val_accuracy": 0.8803, "test_accuracy": 0.9145, "classes": ["Apple", "Banana", "Bread", "Carrot", "Mango", "Onion", "Orange", "Potato", "Potato Chips", "Tomato"]}

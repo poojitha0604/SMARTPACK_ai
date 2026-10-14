@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+       Apple       0.91      0.91      0.91        11
+      Banana       0.92      1.00      0.96        11
+       Bread       0.88      1.00      0.94        23
+      Carrot       0.92      1.00      0.96        11
+       Mango       0.90      0.75      0.82        12
+       Onion       1.00      1.00      1.00        12
+      Orange       0.89      0.80      0.84        10
+      Potato       1.00      0.64      0.78        11
+Potato Chips       1.00      1.00      1.00         3
+      Tomato       0.87      1.00      0.93        13
+
+    accuracy                           0.91       117
+   macro avg       0.93      0.91      0.91       117
+weighted avg       0.92      0.91      0.91       117
